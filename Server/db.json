@@ -1,0 +1,139 @@
+{
+  "killers": [
+    {
+      "id": 2,
+      "name": "El Espectro",
+      "real_name": "Philip Ojomo",
+      "power": "Campana Llorona",
+      "difficulty": "Moderado",
+      "release_date": "2016-06-14"
+    },
+    {
+      "id": 3,
+      "name": "La Cazadora",
+      "real_name": "Anna",
+      "power": "Hachas arrojadizas",
+      "difficulty": "Dificil",
+      "release_date": "2017-07-27"
+    },
+    {
+      "name": "El Doctor",
+      "real_name": "Herman Carter",
+      "power": "Terapia de choque",
+      "difficulty": "Moderado",
+      "release_date": "2017-05-11",
+      "id": 4
+    }
+  ],
+  "survivors": [
+    {
+      "id": 2,
+      "name": "David King",
+      "role": "Líder",
+      "perks": [
+        4,
+        5,
+        6
+      ],
+      "release_date": "2017-07-27"
+    },
+    {
+      "id": 3,
+      "name": "Jeff Johansen",
+      "role": "Atleta",
+      "perks": [
+        7,
+        8,
+        9
+      ],
+      "release_date": "2018-12-11"
+    },
+    {
+      "name": "Johan Delgado",
+      "role": "Estudiante",
+      "perks": [
+        1,
+        2,
+        3
+      ],
+      "release_date": "2016-06-14",
+      "id": 4
+    }
+  ],
+  "maps": [
+    {
+      "id": 2,
+      "name": "Granja Coldwind",
+      "realm": "Granja Coldwind",
+      "release_date": "2016-06-14"
+    },
+    {
+      "id": 3,
+      "name": "Instituto Memorial de Lery",
+      "realm": "Arenales 1",
+      "release_date": "2017-01-25"
+    },
+    {
+      "name": "Casa Campestre",
+      "realm": "Mesa de los santos",
+      "release_date": "2025-03-20",
+      "id": 4
+    }
+  ],
+  "perks": [
+    {
+      "id": 2,
+      "name": "Demuestra lo que vales",
+      "type": "Superviviente",
+      "description": "Aumenta la velocidad de reparación cuando trabajas con otros."
+    },
+    {
+      "id": 3,
+      "name": "Indomable",
+      "type": "Superviviente",
+      "description": "Aumenta la velocidad de acción de los demás supervivientes."
+    },
+    {
+      "id": 4,
+      "name": "Indomable",
+      "type": "Superviviente",
+      "description": "Recuperas energía tras ser derribado."
+    },
+    {
+      "id": 5,
+      "name": "La mejor defensa",
+      "type": "Superviviente",
+      "description": "Reduce el tiempo de recuperación de aturdimientos."
+    },
+    {
+      "id": 6,
+      "name": "Duro como el acero",
+      "type": "Superviviente",
+      "description": "Disminuye el ruido al estar herido."
+    },
+    {
+      "id": 7,
+      "name": "Después de ti",
+      "type": "Superviviente",
+      "description": "Permite a los aliados salir más rápido."
+    },
+    {
+      "id": 8,
+      "name": "Motivación",
+      "type": "Superviviente",
+      "description": "Aumenta la velocidad de recuperación de estados."
+    },
+    {
+      "id": 9,
+      "name": "Empatía",
+      "type": "Superviviente",
+      "description": "Muestra a los aliados heridos en el mapa."
+    },
+    {
+      "name": "Sumar",
+      "type": "Superviviente",
+      "description": "Permite a un Superviviente sumar numeros.",
+      "id": 10
+    }
+  ]
+}
